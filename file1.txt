@@ -1,7 +1,7 @@
 //package Chetu;
 //private data members to hide the data
 public class Account {
-	  private long acc_no;
+	  private long acc_no;//data members
 	  private String name,email;
 	  private float amount;
 //public getter and setter methods 
